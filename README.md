@@ -58,9 +58,11 @@ This dashboard helped the client:
 
 ### 🖼️ Project Preview  
 <p align="center">
-  <img src="[https://github.com/amaan-analytics/Ola-Booking-Analysis-Dashboard/blob/main/ola%20booking%20dash.jpg]"/>
+  <img src="https://github.com/amaan-analytics/Ola-Booking-Analysis-Dashboard/blob/main/ola%20booking%20dash.jpg"/>
 </p>
-
+<p align="center">
+  <img src="https://github.com/amaan-analytics/Ola-Booking-Analysis-Dashboard/blob/main/ola%20booking%20dash.jpg"/>
+</p>
 ---
 
 ### 📎 Files Included  
